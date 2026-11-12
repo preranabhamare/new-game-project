@@ -1,0 +1,195 @@
+{
+  "frames": {
+    "rover_drive_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    },
+    "rover_drive_1": {
+      "frame": {
+        "x": 80,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    },
+    "rover_drive_2": {
+      "frame": {
+        "x": 160,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    },
+    "rover_drive_3": {
+      "frame": {
+        "x": 240,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    },
+    "rover_scan_0": {
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    },
+    "rover_scan_1": {
+      "frame": {
+        "x": 80,
+        "y": 64,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    },
+    "rover_scan_2": {
+      "frame": {
+        "x": 160,
+        "y": 64,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    },
+    "rover_scan_3": {
+      "frame": {
+        "x": 240,
+        "y": 64,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    },
+    "rover_arm": {
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 80,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 64
+      }
+    }
+  },
+  "meta": {
+    "app": "Outpost Zero Isometric Pixel-Art Compiler",
+    "version": "1.0",
+    "image": "rover_spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 320,
+      "h": 192
+    },
+    "scale": "1"
+  }
+}

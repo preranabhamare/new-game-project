@@ -1,0 +1,295 @@
+{
+  "frames": {
+	"mars_soil": {
+	  "frame": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"rocky_terrain": {
+	  "frame": {
+		"x": 132,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"sand_patches": {
+	  "frame": {
+		"x": 264,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"craters": {
+	  "frame": {
+		"x": 396,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"small_rocks": {
+	  "frame": {
+		"x": 0,
+		"y": 74,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"large_boulders": {
+	  "frame": {
+		"x": 132,
+		"y": 74,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"cliffs": {
+	  "frame": {
+		"x": 264,
+		"y": 74,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"ancient_riverbed": {
+	  "frame": {
+		"x": 396,
+		"y": 74,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"mineral_deposits": {
+	  "frame": {
+		"x": 0,
+		"y": 148,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"ice_deposits": {
+	  "frame": {
+		"x": 132,
+		"y": 148,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"dust_covered_terrain": {
+	  "frame": {
+		"x": 264,
+		"y": 148,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"rover_tracks": {
+	  "frame": {
+		"x": 396,
+		"y": 148,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"fog_unexplored": {
+	  "frame": {
+		"x": 0,
+		"y": 222,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	},
+	"fog_partial": {
+	  "frame": {
+		"x": 132,
+		"y": 222,
+		"w": 132,
+		"h": 74
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 132,
+		"h": 74
+	  },
+	  "sourceSize": {
+		"w": 132,
+		"h": 74
+	  }
+	}
+  },
+  "meta": {
+	"app": "Outpost Zero Isometric Pixel-Art Compiler",
+	"version": "1.0",
+	"image": "terrain_atlas.png",
+	"format": "RGBA8888",
+	"size": {
+	  "w": 528,
+	  "h": 296
+	},
+	"scale": "1"
+  }
+}
